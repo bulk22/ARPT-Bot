@@ -89,10 +89,10 @@ try:
 except:
     Error_user_info="未在使用白名单"
 
-Telegram_bot_api=os.environ.get('Telegram_bot_api')
-Telegram_user_id=os.environ.get('Telegram_user_id')
-Api_hash=os.environ.get('Api_hash')
-Api_id=os.environ.get('Api_id')
+Telegram_bot_api=os.environ.get('2026940313:AAFmHnGm-LeLrOkJxPwxBUDvbMjDB5dKdKg')
+Telegram_user_id=os.environ.get('669069677')
+Api_hash=os.environ.get('2d3673e18b462f8032c4eea2f50b9f52')
+Api_id=os.environ.get('7712824')
 
 
 aria2 = aria2p.API(
